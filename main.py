@@ -1,7 +1,7 @@
 # ФУнкция очень важная, не удлаляй
 
 def superfunction():
-    print("Привет Python!")
+    print("Привет, Колледж!")
 
 def main():
     print("Первый принт")
