@@ -1,3 +1,8 @@
+# ФУнкция очень важная, не удлаляй
+
+def superfunction():
+    print("Привет, Колледж!")
+
 def main():
     print("Первый принт")
     print("Второй принт")
@@ -6,3 +11,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+print(1)
